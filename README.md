@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jodie :)
 
-<!--
-**jfp-soc/jfp-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡 SOC Analyst | Blue Team | Threat Detection
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security-focused analyst with hands-on experience investigating authentication events, analyzing logs, and mapping activity to MITRE ATT&CK.
+
+Currently building practical detection labs to strengthen defensive security skills.
+
+---
+
+## Featured Project
+
+🔎 Windows Brute Force Detection Lab  
+Simulated investigation of failed authentication attempts (Event ID 4625) and brute force detection logic.
+
+---
+
+## Skills
+
+- Windows Event Log Analysis
+- Incident Investigation
+- Detection Logic Development
+- MITRE ATT&CK Mapping
